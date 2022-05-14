@@ -1,0 +1,19 @@
+{
+  "name": "node-api-products",
+  "version": "1.0.0",
+  "description": "api test products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelompimenta/api-products-ecommerce.git"
+  },
+  "author": "marcelo pimenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelompimenta/api-products-ecommerce/issues"
+  },
+  "homepage": "https://github.com/marcelompimenta/api-products-ecommerce#readme"
+}
